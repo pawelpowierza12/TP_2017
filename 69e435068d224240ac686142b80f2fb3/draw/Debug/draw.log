@@ -1,0 +1,4 @@
+﻿  draw.cpp
+d:\air 16-17\ii semestr\techniki programowania\iv projekt\2nasz\69e435068d224240ac686142b80f2fb3\draw\draw.cpp(41): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  draw.vcxproj -> D:\AiR 16-17\II SEMESTR\Techniki Programowania\IV projekt\2NASZ\69e435068d224240ac686142b80f2fb3\Debug\draw.exe
+  draw.vcxproj -> D:\AiR 16-17\II SEMESTR\Techniki Programowania\IV projekt\2NASZ\69e435068d224240ac686142b80f2fb3\Debug\draw.pdb (Full PDB)
